@@ -26,7 +26,7 @@ import random
 
 COLS = 12            # squares across
 ROWS = 22            # squares down — the chaos builds over this many rows
-SEED = 5913          # any integer. Same seed = same image, every time, forever.
+SEED = 5923          # any integer. Same seed = same image, every time, forever.
 CHAOS = 1.8           # how fast order collapses. 0 = perfect grid. 2 = rubble.
 SQUARE = 40          # size of one square, in svg units
 MARGIN = 60          # breathing room around the grid
